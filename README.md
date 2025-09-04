@@ -266,12 +266,6 @@ If you encounter any issues or have questions:
 - [ ] Social features and sharing
 - [ ] Email notifications
 - [ ] Admin dashboard improvements
-
-## 📞 Contact
-
-- **Project Link**: [https://github.com/yourusername/auction-platform](https://github.com/yourusername/auction-platform)
-- **Issues**: [https://github.com/yourusername/auction-platform/issues](https://github.com/yourusername/auction-platform/issues)
-
 ---
 
 **Built with ❤️ using modern web technologies**
